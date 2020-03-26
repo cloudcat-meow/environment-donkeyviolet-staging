@@ -19,3 +19,6 @@ dependencies:
 - name: golang-qs
   repository: http://bucketrepo/bucketrepo/charts/
   version: 0.0.2
+- name: staging-forever-2
+  repository: http://bucketrepo/bucketrepo/charts/
+  version: 0.0.1
