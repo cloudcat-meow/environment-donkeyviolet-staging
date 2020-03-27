@@ -1,31 +1,4 @@
 dependencies:
-- name: bdd-spring-1585228122
-  repository: http://bucketrepo/bucketrepo/charts/
-  version: 0.0.1
-- name: bdd-spring-1585254818
-  repository: http://bucketrepo/bucketrepo/charts/
-  version: 0.0.1
-- name: bdd-spring-1585257158
-  repository: http://bucketrepo/bucketrepo/charts/
-  version: 0.0.1
-- name: bdd-spring-1585312787
-  repository: http://bucketrepo/bucketrepo/charts/
-  version: 0.0.1
-- name: bdd-spring-1585314842
-  repository: http://bucketrepo/bucketrepo/charts/
-  version: 0.0.1
-- name: bdd-spring-1585316733
-  repository: http://bucketrepo/bucketrepo/charts/
-  version: 0.0.1
-- name: bdd-spring-1585322026
-  repository: http://bucketrepo/bucketrepo/charts/
-  version: 0.0.1
-- name: bdd-spring-1585324227
-  repository: http://bucketrepo/bucketrepo/charts/
-  version: 0.0.1
-- name: bdd-spring-1585326389
-  repository: http://bucketrepo/bucketrepo/charts/
-  version: 0.0.1
 - alias: expose
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
@@ -34,9 +7,3 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.118
-- name: golang-qs
-  repository: http://bucketrepo/bucketrepo/charts/
-  version: 0.0.2
-- name: staging-forever-2
-  repository: http://bucketrepo/bucketrepo/charts/
-  version: 0.0.1
