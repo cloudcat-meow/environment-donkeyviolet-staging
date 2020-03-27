@@ -1,19 +1,4 @@
 dependencies:
-- name: bdd-spring-1585328527
-  repository: http://bucketrepo/bucketrepo/charts/
-  version: 0.0.1
-- name: bdd-spring-1585330120
-  repository: http://bucketrepo/bucketrepo/charts/
-  version: 0.0.1
-- name: bdd-spring-1585331403
-  repository: http://bucketrepo/bucketrepo/charts/
-  version: 0.0.1
-- name: bdd-spring-1585332635
-  repository: http://bucketrepo/bucketrepo/charts/
-  version: 0.0.1
-- name: bdd-spring-1585334025
-  repository: http://bucketrepo/bucketrepo/charts/
-  version: 0.0.1
 - alias: expose
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
@@ -22,6 +7,3 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.118
-- name: node-test-qs
-  repository: http://bucketrepo/bucketrepo/charts/
-  version: 0.0.1
