@@ -11,6 +11,9 @@ dependencies:
 - name: bdd-spring-1585332635
   repository: http://bucketrepo/bucketrepo/charts/
   version: 0.0.1
+- name: bdd-spring-1585334025
+  repository: http://bucketrepo/bucketrepo/charts/
+  version: 0.0.1
 - alias: expose
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
