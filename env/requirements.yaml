@@ -19,3 +19,6 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.118
+- name: node-test-qs
+  repository: http://bucketrepo/bucketrepo/charts/
+  version: 0.0.1
