@@ -1,7 +1,4 @@
 dependencies:
-- name: bdd-spring-1585346058
-  repository: http://bucketrepo/bucketrepo/charts/
-  version: 0.0.1
 - name: bdd-spring-1585350966
   repository: http://bucketrepo/bucketrepo/charts/
   version: 0.0.1
